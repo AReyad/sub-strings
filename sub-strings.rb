@@ -19,7 +19,12 @@ def substrings(string, dictionary)
      word[count] += 1
      word
   end
+
+  if matching_result == {}
+    "No matches"
+  else
   matching_result
+  end
 end
 
-p substrings(user_input, dictionary)
+puts substrings(user_input, dictionary)
