@@ -12,7 +12,7 @@ This project is part of the Ruby Programming lessons of [The Odin Project](https
 - Accepts user input
 - Matches and counts dictionary words found as substrings in the input string
 - Returns results as a hash with word counts
-- Returns a message when no matches found.
+- Returns a message when no matches found
 
 ## Examples
 
