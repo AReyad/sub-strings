@@ -13,4 +13,4 @@ def substrings(string, dictionary)
   result.empty? ? "No matches found" : result
 end
 
-puts substrings(user_input, dictionary)
+p substrings(user_input, dictionary)
